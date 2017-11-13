@@ -1,0 +1,1 @@
+This is my third file that i want to commit to Git.
